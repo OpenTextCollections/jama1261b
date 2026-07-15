@@ -1,9 +1,8 @@
 # Open Text Collections #3
-## Jarawara texts
+## Textos Jarawara
 
-This collection features 20 texts from the Jarawara language, spoken in Brazil. 
+Esta coleção reúne 20 textos na língua jarawara, falada no Brasil.
 
-The texts were narrated by two speakers called Siko and Yowao. The stories were compiled, translated, and glossed by Alan Vogel. 
+Os textos foram narrados por dois falantes chamados Siko e Yowao. As histórias foram compiladas, traduzidas e glosadas por Alan Vogel.
 
-The files in this repository contain the texts in the CLDF format. A human readable version of the book is available under the name "The Stories of Siko and Yowao" at https://zenodo.org/records/17158276
- 
+Os arquivos deste repositório contêm os textos no formato CLDF. Uma versão legível do livro está disponível com o título _Histórias de Siko e de Yowao: Textos jarawaras_ em https://zenodo.org/records/20524250/files/594-Vogel-2026.pdf?download=1.
