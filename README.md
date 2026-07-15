@@ -1,4 +1,4 @@
-# Open Text Collections #3
+# Open Text Collections #11
 ## Textos Jarawara
 
 Esta coleção reúne 20 textos na língua jarawara, falada no Brasil.
